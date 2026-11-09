@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.session
+*.session-journal
+Logs.txt
+.env
+node_modules/
+RKMOVIESZIP_Updated_Project.zip
+public/assets/aistudio/
